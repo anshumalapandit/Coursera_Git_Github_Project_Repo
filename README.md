@@ -1,1 +1,2 @@
-# Coursera_Git_Github_Project_Repo
+# Final Project Repository
+This repository is for the Coursera Git & GitHub final project.
